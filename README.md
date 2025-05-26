@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<details open>
+<summary>My top languages </summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1|C#         |
+|     2|SQL        |
+|     3| XML       |
+|     4| JSON      |  
+|     5| Python    |
+
+
+</details>
+
