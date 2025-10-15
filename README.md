@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 |     4| JSON      |  
 |     5| Python    |
 |     6| R         |
+|     7| C++       |
 
 </details>
 
