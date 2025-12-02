@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 |-----:|-----------|
 |     1|C#         |
 |     2|SQL        |
-|     3| XML       |
-|     4| JSON      |  
+|     3| R       |
+|     4| JSON & XML     |  
 |     5| Python    |
-|     6| R         |
-|     7| C++       |
+|     6| C++        |
+
 
 </details>
 
