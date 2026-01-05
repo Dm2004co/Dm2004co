@@ -1,4 +1,4 @@
-## Hi guys, I'm Darrell Messi 👋
+## Hi guys, I'm Darrell Messi 👋😄
 
 <!--
 **Dm2004co/Dm2004co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
