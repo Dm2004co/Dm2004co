@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 |     4| JSON & XML     |  
 |     5| Python    |
 |     6| C++        |
-|     7| JS     |
+|     7| JS & PHP   |
 
 
 </details>
